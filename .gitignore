@@ -5,6 +5,7 @@
 .DS_Store
 *.pem
 npm-debug.log*
+.devserver*.log
 .env
 .env*.local
 next-env.d.ts
